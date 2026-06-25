@@ -44,7 +44,7 @@ Pengguna dapat memperbarui data dengan menarik layar ke bawah (pull to refresh).
 
 (Tambahkan screenshot saat data berhasil ditampilkan)
 
-![Success](assets/success.jpeg)
+![Success](assets/succes.jpeg)
 
 ### 3. Error State
 
